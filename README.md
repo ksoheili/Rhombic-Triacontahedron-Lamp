@@ -29,18 +29,18 @@ the notches, and then adding glue. It has to be thick enough to prevent light fr
 shining through. Even though in the photos the glow seems uniform, it glows mostly
 through the top since the bottom is 15% infill. My original design had an issue
 and caused the inner portion to print poorly, but this is fixed. 
-![alt text](https://raw.githubusercontent.com/ksoheili/Rhombic-Triacontahedron-Lamp/main/Middle.png)
+![alt text](https://raw.githubusercontent.com/ksoheili/Rhombic-Triacontahedron-Lamp/main/Images/Middle.png)
 
 #### The lid
 The lid is a 2mm thick, basically 2% infill to allow light to shine trough.
 It is actually pretty strong and fits nicely on top. I used white silicone to fill
 the gaps, but would reccomend superglue to seal the top on (no light shadows 
 once is solidifies from inside).
-![alt text](https://raw.githubusercontent.com/ksoheili/Rhombic-Triacontahedron-Lamp/main/Lid.png)
+![alt text](https://raw.githubusercontent.com/ksoheili/Rhombic-Triacontahedron-Lamp/main/Images/Lid.png)
 
 ### Final Results
 #### Comment with questions!
-![alt text](https://raw.githubusercontent.com/ksoheili/Rhombic-Triacontahedron-Lamp/main/ResultsP1.png)
-![alt text](https://raw.githubusercontent.com/ksoheili/Rhombic-Triacontahedron-Lamp/main/ResultsP2.png)
+![alt text](https://raw.githubusercontent.com/ksoheili/Rhombic-Triacontahedron-Lamp/main/Images/ResultsP1.png)
+![alt text](https://raw.githubusercontent.com/ksoheili/Rhombic-Triacontahedron-Lamp/main/Images/ResultsP2.png)
 
 
