@@ -21,7 +21,7 @@ Hole for power line to be wired in, and USB port cut out.
 Printed the usb plate separately and front panel due to measurement discrepencies. 
 All parts were glued with guerilla glue, only one screw was used to pressure 
 hold parts in place.
-![alt text](https://raw.githubusercontent.com/ksoheili/Rhombic-Triacontahedron-Lamp/main/Base.png)
+![alt text](https://raw.githubusercontent.com/ksoheili/Rhombic-Triacontahedron-Lamp/main/Images/Base.png)
 
 #### The Middle
 The middle section houses the LEDs, mounting it on the base is pretty simple with 
